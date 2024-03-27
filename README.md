@@ -1,1 +1,1 @@
-# createThumbnail
+# PRO-C158-Student-Activity
